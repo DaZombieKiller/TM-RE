@@ -1,0 +1,5 @@
+bdd = archive
+ngp = database
+ptr = relocation file
+tex = non resident texture
+rtx = resident texture
